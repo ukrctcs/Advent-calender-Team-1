@@ -1,0 +1,55 @@
+.bg-kalender {
+    background: linear-gradient(
+      rgba(20, 128, 211, 0.6), 
+      rgba(36, 116, 173, 0.9)
+    ), url("https://media.tenor.com/ao8K4bvsyREAAAAC/feliz-navidad-merry-christmas.gif"); 
+    min-height: 100vh;
+    background-repeat: repeat-x;
+    position: calc();
+    background-size: contain;
+}
+
+.card,
+.font-festive {
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.border-thick {
+    border-width: 3px;
+}
+.card {
+    border-color: #fff;
+}
+.card:hover {
+    border-color: #d4af37;
+    color: #d4af37;
+}
+
+.secret-code {
+    border: 3px solid #8dacc3;
+    background-color: #c1d4e3;
+}
+
+.cheat-text {
+    border: 3px solid #ce2b5c;
+    background-color: #f3aac0;
+}
+
+.modal-content {
+    background: url("https://cutewallpaper.org/21/snow-background-picture/Close-Up-Of-White-Snow-Background.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+
+#kalender-date {
+    color: #1c5886;
+}
