@@ -40,57 +40,57 @@ cardContent = [
         "assets/img/a1.jpeg"
     ],
     [
-        "Who delivers presents to baby sharks at Christmas? Santa Jaws!",
+        "I get chopped down, decorated all over, and I have wings on top. What am I? A Christmas Tree",
         "Jfcuu",
         "assets/img/a2.jpeg"
     ],
     [
-        "What do Santa’s little helpers learn at school? The elf-abet!",
+        "When does Christmas come before Thanksgiving? In the dictionary",
         "vxUMQ",
         "assets/img/a25.jpeg"
     ],
     [
-        "What was Santa's best subject in school? Chemistree",
+        "What was Santa's best subject in school? Chemistree", 
         "XTY4j",
         "assets/img/a4.jpeg"
     ],
     [
-        "Who hides in the bakery at Christmas? A mince spy!",
+        "Who hides in the bakery at Christmas? A mince spy",
         "kjCoK",
         "assets/img/a5.jpeg"
     ],
     [
-        "How did Mrs. Claus tell Santa the weather? 'It looks like rain, dear!'",
+        "Who is always full and never hungry on Christmas? A stuffed turkey",
         "eItUl",
         "assets/img/a6.jpeg"
     ],
     [
-        "What does Santa use to measure? Santameters!",
+        "He is a man during the winter, but you might drink him during the summer. Who is he? A snowman",
         "1X7a8",
         "assets/img/a7.jpeg"
     ],
     [
-        "What's a ghost's favorite Christmas story? The Fright Before Christmas!",
+        "I'm grumpy and green and I stole all the presents in one night. Who am I? The Grinch",
         "BMO7B",
         "assets/img/a8.jpeg"
     ],
     [
-        "What do you get if you cross Santa with a duck? A Christmas Quacker!",
+        "What do you call it after all the Christmas gifts have been opened? Christmess",
         "7NzoJ",
         "assets/img/a9.jpeg"
     ],
     [
-        "What do snowmen eat for breakfast? Ice Crispies.",
+        "Why do mummies love Christmas? Because of all the wrapping",
         "i1Ou+",
         "assets/img/a10.jpeg"
     ],
     [
-        "Why is it always cold at Christmas? Because it is Decemberrrrrrr!",
+        "Which one of Santa's reindeer can you see from outer space? Comet",
         "dzmNN",
         "assets/img/a11.jpeg"
     ],
     [
-        "What did one snowman say to the other snowman? Smells like carrots around here!",
+        " Why does the alphabet get shorter at Christmas time? Because it has no L (NOEL)",
         "ohNzV",
         "assets/img/a12.webp"
     ],
@@ -100,27 +100,27 @@ cardContent = [
         "assets/img/a13.jpeg"
     ],
     [
-        "What do elves do after school? Their gnome work!",
+        "You buy me to eat, but you will never eat me, not even on Christmas. What am I? Cutlery",
         "71NGj",
         "assets/img/a14.jpeg"
     ],
     [
-        "What did the snowman say to the robin? I have snow idea!",
+        "What do you call a broke Santa? Saint Nickel-less",
         "5cadu",
         "assets/img/a15.jpeg"
     ],
     [
-        "Why is it getting harder to buy Advent calendars? Because their days are numbered!",
+        "Why is it getting harder to buy Advent calendars? Because their days are numbered",
         "0Rtgk",
         "assets/img/a16.jpeg"
     ],
     [
-        "How does Santa keep track of all the fireplaces he's visited? He keeps a logbook.",
+        "What kind of ball doesn’t bounce? A snowball",
         "/mvxs",
         "assets/img/a17.jpeg"
     ],
      [
-        "Who delivers presents to cats? Santa Paws!",
+        "What do you call a snowman in July? A puddle",
         "KcKu5",
         "assets/img/a18.jpeg"
     ],
@@ -130,27 +130,27 @@ cardContent = [
         "assets/img/a19.jpeg"
     ],
      [
-        "What is white and minty? A polo bear!",
+        "You have no idea what I am, yet you wait for me every year. I rattle when you shake me, but you still don't know what's inside. What am I? A present",
         "kApsZ",
         "assets/img/a20.jpeg"
     ],
     [
-        "What’s green, covered in tinsel and goes ribbet ribbet? A mistle-toad!",
+        "What do Santa's beard and a Christmas tree have in common? They both need trimming",
         "HTsvd",
         "assets/img/a21.jpeg"
     ],
     [
-        "How did Scrooge win the football game? The ghost of Christmas passed!",
+        "What is something that travels around the globe like Santa Claus, yet never leaves its corner? A stamp",
         "UujuL",
         "assets/img/a22.jpeg"
     ],
     [
-        "What’s the absolute best Christmas present? A broken drum — you can’t beat it!",
+        "You can catch me easily, especially during the holidays, but you can never throw me. What am I? A cold",
         "NG1lO",
         "assets/img/a23.jpeg"
     ],
      [
-        "What type of cars do elves drive? Toy-otas!",
+        "I drop from the sky and I'm much more beautiful than rain. What am I? Snow",
         "LsWC3",
         "assets/img/d17.jpg"
     ],
