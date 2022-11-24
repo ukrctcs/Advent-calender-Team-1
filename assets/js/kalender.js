@@ -37,127 +37,127 @@ cardContent = [
     [
         "For your advent calender this year, every day you get a secret code. Put them all together and on Christmas day you'll get a secret message",
         "Ly48ce",
-        "assets/img/d1.jpg"
+        "assets/img/a1.jpeg"
     ],
     [
         "Who delivers presents to baby sharks at Christmas? Santa Jaws!",
         "Jfcuu",
-        "assets/img/d2.jpg"
+        "assets/img/a2.jpeg"
     ],
     [
         "What do Santa’s little helpers learn at school? The elf-abet!",
         "vxUMQ",
-        "assets/img/d3.jpg"
+        "assets/img/a25.jpeg"
     ],
     [
         "What was Santa's best subject in school? Chemistree",
         "XTY4j",
-        "assets/img/d4.jpg"
+        "assets/img/a4.jpeg"
     ],
     [
         "Who hides in the bakery at Christmas? A mince spy!",
         "kjCoK",
-        "assets/img/d5.jpg"
+        "assets/img/a5.jpeg"
     ],
     [
         "How did Mrs. Claus tell Santa the weather? 'It looks like rain, dear!'",
         "eItUl",
-        "assets/img/d6.jpg"
+        "assets/img/a6.jpeg"
     ],
     [
         "What does Santa use to measure? Santameters!",
         "1X7a8",
-        "assets/img/d7.jpg"
+        "assets/img/a7.jpeg"
     ],
     [
         "What's a ghost's favorite Christmas story? The Fright Before Christmas!",
         "BMO7B",
-        "assets/img/d8.jpg"
+        "assets/img/a8.jpeg"
     ],
     [
         "What do you get if you cross Santa with a duck? A Christmas Quacker!",
         "7NzoJ",
-        "assets/img/d9.jpg"
+        "assets/img/a9.jpeg"
     ],
     [
         "What do snowmen eat for breakfast? Ice Crispies.",
         "i1Ou+",
-        "assets/img/d10.jpg"
+        "assets/img/a10.jpeg"
     ],
     [
         "Why is it always cold at Christmas? Because it is Decemberrrrrrr!",
         "dzmNN",
-        "assets/img/d11.jpg"
+        "assets/img/a11.jpeg"
     ],
     [
         "What did one snowman say to the other snowman? Smells like carrots around here!",
         "ohNzV",
-        "assets/img/d12.jpg"
+        "assets/img/a12.webp"
     ],
     [
         "What does Santa use to bake cakes? Elf-raising flour",
         "aAIal",
-        "assets/img/d13.jpg"
+        "assets/img/a13.jpeg"
     ],
     [
         "What do elves do after school? Their gnome work!",
         "71NGj",
-        "assets/img/d14.jpg"
+        "assets/img/a14.jpeg"
     ],
     [
         "What did the snowman say to the robin? I have snow idea!",
         "5cadu",
-        "assets/img/d15.jpg"
+        "assets/img/a15.jpeg"
     ],
     [
         "Why is it getting harder to buy Advent calendars? Because their days are numbered!",
         "0Rtgk",
-        "assets/img/d16.jpg"
+        "assets/img/a16.jpeg"
     ],
     [
         "How does Santa keep track of all the fireplaces he's visited? He keeps a logbook.",
         "/mvxs",
-        "assets/img/d17.jpg"
+        "assets/img/a17.jpeg"
     ],
      [
         "Who delivers presents to cats? Santa Paws!",
         "KcKu5",
-        "assets/img/d18.jpg"
+        "assets/img/a18.jpeg"
     ],
      [
         "Why does everyone love Frosty the Snowman? He's cool",
         "+Sefv",
-        "assets/img/d19.jpg"
+        "assets/img/a19.jpeg"
     ],
      [
         "What is white and minty? A polo bear!",
         "kApsZ",
-        "assets/img/d20.jpg"
+        "assets/img/a20.jpeg"
     ],
     [
         "What’s green, covered in tinsel and goes ribbet ribbet? A mistle-toad!",
         "HTsvd",
-        "assets/img/d21.jpg"
+        "assets/img/a21.jpeg"
     ],
     [
         "How did Scrooge win the football game? The ghost of Christmas passed!",
         "UujuL",
-        "assets/img/d22.jpg"
+        "assets/img/a22.jpeg"
     ],
     [
         "What’s the absolute best Christmas present? A broken drum — you can’t beat it!",
         "NG1lO",
-        "assets/img/d23.jpg"
+        "assets/img/a23.jpeg"
     ],
      [
         "What type of cars do elves drive? Toy-otas!",
         "LsWC3",
-        "assets/img/d24.jpg"
+        "assets/img/d17.jpg"
     ],
     [   
         "The encryption is 128-bit AES and your secret password is rudoplh 🦌 Go decrypt your secret message!",
         "mD8yR",
-        "assets/img/d25.jpg"
+        "assets/img/a3.jpeg"
     ]
 ]
 
