@@ -150,7 +150,7 @@ cardContent = [
         "assets/img/a23.jpeg"
     ],
      [
-        "I drop from the sky and I'm much more beautiful than rain. What am I? Snow",
+        "I drop from the sky and I'm much colder than rain. What am I? Snow",
         "LsWC3",
         "assets/img/d17.jpg"
     ],
