@@ -1,10 +1,15 @@
+.title { 
+    color: red; font: 12px tahoma;
+} 
+
+
 .bg-kalender {
     background: url("https://media.tenor.com/ao8K4bvsyREAAAAC/feliz-navidad-merry-christmas.gif"); 
     min-height: 100vh;
     background-repeat: repeat-x;
     position: calc();
     background-size: contain;
-    
+
 }
 
 .card,
@@ -14,6 +19,9 @@
 
 .uppercase {
     text-transform: uppercase;
+}
+.red {
+color: red !important;
 }
 
 .card {
