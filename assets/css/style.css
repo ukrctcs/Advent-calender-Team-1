@@ -1,8 +1,5 @@
 .bg-kalender {
-    background: linear-gradient(
-      rgba(20, 128, 211, 0.6), 
-      rgba(36, 116, 173, 0.9)
-    ), url("https://media.tenor.com/ao8K4bvsyREAAAAC/feliz-navidad-merry-christmas.gif"); 
+    background: url("https://media.tenor.com/ao8K4bvsyREAAAAC/feliz-navidad-merry-christmas.gif"); 
     min-height: 100vh;
     background-repeat: repeat-x;
     position: calc();
