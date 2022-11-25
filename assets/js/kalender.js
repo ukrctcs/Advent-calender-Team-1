@@ -36,127 +36,127 @@ $('.card').click(function(){
 cardContent = [
     [
         "For your advent calender this year, every day you get a secret code. Put them all together and on Christmas day you'll get a secret message",
-        "Ly48ce",
+        "J XJTI",
         "assets/img/a1.jpeg"
     ],
     [
         "I get chopped down, decorated all over, and I have wings on top. What am I? A Christmas Tree",
-        "Jfcuu",
+        "ZPV B KPZGVM",
         "assets/img/a2.jpeg"
     ],
     [
         "When does Christmas come before Thanksgiving? In the dictionary",
-        "vxUMQ",
+        "DISJTUNBT",
         "assets/img/a25.jpeg"
     ],
     [
         "What was Santa's best subject in school? Chemistree", 
-        "XTY4j",
+        "TFBTPO GVM",
         "assets/img/a4.jpeg"
     ],
     [
         "Who hides in the bakery at Christmas? A mince spy",
-        "kjCoK",
+        "PG MBVHIUFS",
         "assets/img/a5.jpeg"
     ],
     [
         "Who is always full and never hungry on Christmas? A stuffed turkey",
-        "eItUl",
+        "BOE",
         "assets/img/a6.jpeg"
     ],
     [
         "He is a man during the winter, but you might drink him during the summer. Who is he? A snowman",
-        "1X7a8",
+        "OFX",
         "assets/img/a7.jpeg"
     ],
     [
         "I'm grumpy and green and I stole all the presents in one night. Who am I? The Grinch",
-        "BMO7B",
+        "NFNPSJFT",
         "assets/img/a8.jpeg"
     ],
     [
         "What do you call it after all the Christmas gifts have been opened? Christmess",
-        "7NzoJ",
+        "XJUI",
         "assets/img/a9.jpeg"
     ],
     [
         "Why do mummies love Christmas? Because of all the wrapping",
-        "i1Ou+",
+        "UIPTF",
         "assets/img/a10.jpeg"
     ],
     [
         "Which one of Santa's reindeer can you see from outer space? Comet",
-        "dzmNN",
+        "ZPV",
         "assets/img/a11.jpeg"
     ],
     [
         " Why does the alphabet get shorter at Christmas time? Because it has no L (NOEL)",
-        "ohNzV",
+        "MPWF",
         "assets/img/a12.webp"
     ],
     [
         "What does Santa use to bake cakes? Elf-raising flour",
-        "aAIal",
+        "BT ZPV",
         "assets/img/a13.jpeg"
     ],
     [
         "You buy me to eat, but you will never eat me, not even on Christmas. What am I? Cutlery",
-        "71NGj",
+        "EFDPSBUF",
         "assets/img/a14.jpeg"
     ],
     [
         "What do you call a broke Santa? Saint Nickel-less",
-        "5cadu",
+        "UIF USFF",
         "assets/img/a15.jpeg"
     ],
     [
         "Why is it getting harder to buy Advent calendars? Because their days are numbered",
-        "0Rtgk",
+        "BOE",
         "assets/img/a16.jpeg"
     ],
     [
         "What kind of ball doesn’t bounce? A snowball",
-        "/mvxs",
+        "FOKPZ",
         "assets/img/a17.jpeg"
     ],
      [
         "What do you call a snowman in July? A puddle",
-        "KcKu5",
+        "ZPVS",
         "assets/img/a18.jpeg"
     ],
      [
         "Why does everyone love Frosty the Snowman? He's cool",
-        "+Sefv",
+        "GBWPVSJUF",
         "assets/img/a19.jpeg"
     ],
      [
         "You have no idea what I am, yet you wait for me every year. I rattle when you shake me, but you still don't know what's inside. What am I? A present",
-        "kApsZ",
+        "IPMJEBZ",
         "assets/img/a20.jpeg"
     ],
     [
         "What do Santa's beard and a Christmas tree have in common? They both need trimming",
-        "HTsvd",
+        "GPPET",
         "assets/img/a21.jpeg"
     ],
     [
         "What is something that travels around the globe like Santa Claus, yet never leaves its corner? A stamp",
-        "UujuL",
+        "CFTU",
         "assets/img/a22.jpeg"
     ],
     [
         "You can catch me easily, especially during the holidays, but you can never throw me. What am I? A cold",
-        "NG1lO",
+        "XJTIFT",
         "assets/img/a23.jpeg"
     ],
      [
         "I drop from the sky and I'm much colder than rain. What am I? Snow",
-        "LsWC3",
+        "GPS DISJTUNBT",
         "assets/img/d17.jpg"
     ],
     [   
-        "The encryption is 128-bit AES and your secret password is rudoplh 🦌 Go decrypt your secret message!",
-        "mD8yR",
+        "A little smile, a word of cheer, A bit of love from someone near, A little gift from one held dear, Best wishes for the coming year… These make a Merry Christmas!",
+        "I wish you a joyful Christmas season full of laughter and new memories with those you love as you decorate the tree and enjoy your favourite holiday foods. Best wishes for Christmas.",
         "assets/img/a3.jpeg"
     ]
 ]
